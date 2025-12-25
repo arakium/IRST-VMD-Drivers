@@ -52,6 +52,12 @@ If you have newer driver versions or extra platform support, feel free to add th
 Clear folder naming and keeping the README updated helps everyone.  
 
 ---
+# UPDATE 25/12/2025
+
+I found a direct link for downloading extracted drivers on ASUS's website, so people who have ASUS laptops can use that official package to solve the drivers issue.
+That ASUS driver *wasn't tested* on non-ASUS laptops. If you tested these drivers on non-ASUS laptops, you can make a pull request with enough technical details.
+Here's the official download link from ASUS:
+[IRST](https://www.asus.com/supportonly/irst/helpdesk_download/)
 
 **Keywords:**  
 - Windows can’t detect disk  
