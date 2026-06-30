@@ -58,9 +58,3 @@ I found a direct link for downloading extracted drivers on ASUS's website, so pe
 That ASUS driver *wasn't tested* on non-ASUS laptops. If you tested these drivers on non-ASUS laptops, you can make a pull request with enough technical details.
 Here's the official download link from ASUS:
 [IRST](https://www.asus.com/supportonly/irst/helpdesk_download/)
-
-**Keywords:**  
-- Windows can’t detect disk  
-- No device drivers were found  
-- Intel VMD NVMe driver  
-- RST F6 driver
